@@ -48,7 +48,7 @@ Developers should have a technical roadmap informed by the feature roadmap. Crea
 
 <!-- List of tools for translations -->
 * [gettext](https://www.gnu.org/software/gettext/)
-* [Translatewiki](https:/translatewiki.net)
+* [Translatewiki](https://translatewiki.net/)
 * [Crowdin](https://crowdin.com/)
 * [Weblate](https://weblate.org/)
 * [Transifex](https://www.transifex.com/)

@@ -14,7 +14,7 @@ order: 15
 
 #### Examples
 
-* Basic guidelines: [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md) 
+* Basic guidelines: [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md)
 * Guidelines of a very mature project: [Git](https://github.com/git/git/blob/master/Documentation/CodingGuidelines)
 
 ### Contributions SHOULD pass automated tests on style.

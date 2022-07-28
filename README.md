@@ -18,7 +18,7 @@ Reviewers should include a codebase steward of the Foundation for Public Code.
 
 ## Problems, suggestions and questions in issues
 
-You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues](https://github.com/publiccodenet/community-implementation-guide-standard/issues).
+You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues](https://github.com/publiccodenet/community-implementation-guide-standard/issues).
 Or, sign up to the [Standard for Public Code mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 ## Preview, build and deploy

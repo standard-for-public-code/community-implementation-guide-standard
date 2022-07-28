@@ -12,7 +12,7 @@ order: 6
 
 Git is great.
 
-See a list of git options under [All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible.](#All-source-code-for-any-policy-and-software-in-use-unless-used-for-fraud-detection-MUST-be-published-and-publicly-accessible)
+See a list of git options under [All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible](code-in-the-open.md).
 
 #### Resources
 

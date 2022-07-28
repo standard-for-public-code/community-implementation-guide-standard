@@ -6,16 +6,16 @@ order: 9
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
-## Document the code
+## General
 
-**Tools**
+### Tools
 
 * [Docusaurus](https://docusaurus.io/)
 * [Read the docs](https://readthedocs.org/)
 * [mkdocs](https://www.mkdocs.org/)
 * [readme.so](https://readme.so/) is a tool to create a README file
 
-**Resources**
+### Resources
 
 * [How to write a README](https://github.com/Amsterdam/amsterdam.github.io/blob/master/guides/write-a-readme.md), guide from the municipality of Amsterdam.
 

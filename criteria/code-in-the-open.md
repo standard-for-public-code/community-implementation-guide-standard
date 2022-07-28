@@ -24,7 +24,7 @@ That is, you should preferrably not just mirror the code publicly since that wil
 * [GitHub](https://github.com/): +largest community, +free for FOSS codebases, -cannot be self-hosted, -possibly GDPR-problems, -not FOSS
 * [GitLab](https://gitlab.com/): +can be self-hosted, -hosted version is not FOSS
 * [Gitea](https://gitea.io/):
-* [Codeberg]((https://codeberg.org)): (hosted Gitea)
+* [Codeberg](https://codeberg.org): (hosted Gitea)
 * [Sourcehut](https://sourcehut.org): -still in alpha
 * [IEEE SA open](https://saopen.ieee.org/): (hosted GitLab)
 * [Bitbucket](https://bitbucket.org/): -cannot be self-hosted, -not FOSS

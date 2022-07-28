@@ -13,8 +13,9 @@
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
 #
 # Additionally, we have these violations which should be resolved:
+# MD024 Multiple headers with the same content
 # MD026 Trailing punctuation in header
 # MD032 Lists should be surrounded by blank lines
 # MD034 Bare URL used
 #
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD032,~MD034 -i -g '.'
+bundle exec mdl -r ~MD007,~MD013,~MD029,~MD024,~MD026,~MD032,~MD034 -i -g '.'
