@@ -1,0 +1,31 @@
+title: Implementation guide for the Standard for Public Code
+version: 0.4.0-rc
+
+plugins:
+  - jekyll-redirect-from
+
+remote_theme: publiccodenet/jekyll-theme
+include:
+  - "README.md"
+  - "LICENSE.md"
+  - "CODE_OF_CONDUCT.md"
+
+toc: true
+
+defaults:
+  -
+    scope:
+      # ignore criteria/index.html, but match all other criteria pages
+      # (match all criteria pages not starting with an 'i')
+      path: '/criteria/[!i]*'
+    values:
+      breadcrumbs:
+        - name: 'Criteria'
+          path: '/criteria/'
+      show_prev_next: true
+
+  -
+    scope:
+      path: '/'
+    values:
+      breadcrumbs: true
