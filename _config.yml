@@ -23,6 +23,7 @@ defaults:
         - name: 'Criteria'
           path: '/criteria/'
       show_prev_next: true
+      toc: false
 
   -
     scope:
