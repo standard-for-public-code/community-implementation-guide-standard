@@ -24,10 +24,14 @@ bundle exec jekyll build
 # * github.com/foo/edit/ : may reference yet-to-exist pages
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
+# * lists.publiccode.net/mailman/postorius/lists : sporadic 500 errors
+# * belastingdienst.nl/wps/wcm/connect/bldcontenten : regular timeouts
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
+,/lists\.publiccode\.net\/mailman\/postorius\/lists\//\
+,/belastingdienst\.nl\/wps\/wcm\/connect\/bldcontenten\/belastingdienst\//\
 "
 
 # Check for broken links and missing alt tags:
