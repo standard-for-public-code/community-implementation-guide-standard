@@ -20,6 +20,7 @@ order: 13
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand, that also explains the basic concept of free licenses.
 <!-- When we add the one above, we should also remove it from the standard -->
 * [A Quick Guide to Software Licensing for the Scientist-Programmer](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
+* [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/) by Ars Technica explains with some nuance the difference between the most common licenses.
 
 ### Software source code MUST be licensed under an OSI-approved or FSF Free/Libre license.
 
