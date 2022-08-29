@@ -38,6 +38,10 @@ order: 4
 * [OpenRefine GOVERNANCE](https://github.com/OpenRefine/OpenRefine/blob/master/GOVERNANCE.md), example of a fairly mature governance structure
 * [Simple template for GOVERNANCE file](https://about.publiccode.net/activities/supporting-codebase-governance/governance-template.html)
 
+#### Further reading
+
+* [Best Practices for the Governance of Digital Public Goods](https://ash.harvard.edu/publications/best-practices-governance-digital-public-goods) by the Ash Center for Democratic Governance and Innovation contains a playbook of different pracitces to implement in the governance along with case studies.
+
 ### The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
 
 #### Examples
