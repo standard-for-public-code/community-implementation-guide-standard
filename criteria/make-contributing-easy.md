@@ -43,6 +43,7 @@ Preferably, anyone should be able to join these and start discussing without req
 * [Mattermost](https://mattermost.com/)
 * [Matrix](https://matrix.org/)
 * [Gitter](https://gitter.im/)
+* [Zulip](https://zulip.com/)
 * IRC
 
 ##### Fora
