@@ -22,6 +22,7 @@ order: 5
 #### Examples
 
 * [OpenZaak SECURITY](https://github.com/open-zaak/open-zaak/blob/main/SECURITY.rst)
+* [Verdaccio SECURITY](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md)
 
 ### The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a README file.
 
@@ -69,3 +70,6 @@ Preferably, anyone should be able to join these and start discussing without req
 
 ### The documentation SHOULD include instructions for how to report potentially security sensitive issues on a closed channel.
 
+#### Examples
+
+* [Verdaccio SECURITY](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md)
