@@ -23,7 +23,14 @@ Or, sign up to the [Standard for Public Code mailing list](https://lists.publicc
 
 ## Preview, build and deploy
 
-We are still figuring out the details this process. Please be patient.
+This site is built using Jekyll.
+Ensure ruby is installed and run `bundle install`.
+
+To view changes, the `script/serve.sh` script will build locally and allow you to view it on localhost:4000.
+
+To test your changes, `script/test-all.sh` will run the markdown linter and link checks.
+
+When changes are merged to the `main` branch, they will be automatically deployed by GitHub.
 
 ## Code of Conduct
 
