@@ -21,6 +21,6 @@ Be on the lookout for people, organizations and initiatives with similar objecti
 
 #### Examples
 
-### The codebase MAY contain documentation of its objectives for the general public.
+### Documenting the objectives of the codebase for the general public is OPTIONAL.
 
 #### Examples

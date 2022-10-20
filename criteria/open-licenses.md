@@ -43,7 +43,7 @@ Can we find good real-world examples of navigating this?
 
 * [Curl is REUSE compliant](https://daniel.haxx.se/blog/2022/06/17/curl-is-reuse-compliant/)
 
-### Codebases MAY have multiple licenses for different types of code and documentation.
+### Having multiple licenses for different types of code and documentation is OPTIONAL.
 
 #### Examples
 

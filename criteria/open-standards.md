@@ -16,8 +16,8 @@ order: 11
 
 #### Examples
 
+### Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
+
 ### If no existing open standard is available, effort SHOULD be put into developing one.
 
 ### Standards that are machine testable SHOULD be preferred over those that are not.
-
-### Functionality using features from a standard that is not an open standard MAY be provided if necessary, but only in addition to compliant features.

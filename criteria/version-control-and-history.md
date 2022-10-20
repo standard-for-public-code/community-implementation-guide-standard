@@ -42,4 +42,4 @@ Git is great.
 
 <!-- Make a list of preferred file formats -->
 
-### Contributors MAY sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
+### It is OPTIONAL for contributors to sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.

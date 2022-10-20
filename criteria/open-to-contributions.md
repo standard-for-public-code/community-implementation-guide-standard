@@ -65,6 +65,6 @@ This could also be solved by having public task boards/kanban boards with suitab
 
 * [GitHub Insights - Contributors](https://github.com/publiccodenet/standard/graphs/contributors)
 
-### The codebase MAY include a code of conduct for contributors.
+### Including a code of conduct for contributors in the codebase is OPTIONAL.
 
 #### Examples
