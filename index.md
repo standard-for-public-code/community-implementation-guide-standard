@@ -1,8 +1,6 @@
-# Guide for implementing the Standard for Public Code
+# Guide for implementing the Standard for Public Code 0.4.0
 
-*This is a beginning of how a guide for someone that wants to implement the Standard for Public Code with their codebase could look like.*
-
-We want the guide to be built with the Community, like the the Community translations.
+This guide is built with the Community, like the Community translations.
 
 It should help when someone asks the question "How can I meet this requirement?" or "What do I need to do to meet this requirement?"
 
