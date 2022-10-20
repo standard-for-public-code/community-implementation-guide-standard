@@ -68,4 +68,3 @@ This could also be solved by having public task boards/kanban boards with suitab
 ### The codebase MAY include a code of conduct for contributors.
 
 #### Examples
-
