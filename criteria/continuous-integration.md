@@ -30,8 +30,8 @@ Most code coverage tools have functionality to exclude specific lines if needed.
 
 ### Source code test and documentation coverage SHOULD be monitored.
 
-### Policy and documentation MAY have testing for consistency with the source and vice versa.
+### Testing policy and documentation for consistency with the source and vice versa is OPTIONAL.
 
-### Policy and documentation MAY have testing for style and broken links.
+### Testing policy and documentation for style and broken links is OPTIONAL.
 
 Also explain, and if needed provide links, how the testing is done so that the contributor can be efficient when making their contributions. I.e. list any linters that are used.

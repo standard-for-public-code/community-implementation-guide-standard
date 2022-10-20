@@ -40,4 +40,4 @@ Tag releases so they can be found/checked-out from source control.
 Link old releases, make them easilly avialble for download.
 Publish releases before you start using them, or at the same moment if pre-publish is not possible for example a hot-fix in production.
 
-### The codebase MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization.
+### Documenting which source code or policy underpins any specific interaction the general public may have with an organization is OPTIONAL.

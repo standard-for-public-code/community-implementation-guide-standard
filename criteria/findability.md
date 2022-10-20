@@ -30,7 +30,7 @@ Catalogs to consider:
 
 ### The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
 
-### The codebase SHOULD have a unique and persistent identifier, such as a Wikidata item or FSF software directory listing, mentioning the major contributors, repository location and website.
+### The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website.
 
 ### The codebase SHOULD include a machine-readable metadata description, for example in a publiccode.yml file.
 
@@ -43,6 +43,6 @@ Catalogs to consider:
 * [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/publiccode.yaml)
 * [VerificaC19, the official Italian customization of the EU Digital COVID Certificate Verifier App for the Android Operating System](https://github.com/ministero-salute/it-dgc-verificaC19-android/blob/develop/publiccode.yml)
 
-### There MAY be a dedicated domain name for the codebase.
+### A dedicated domain name for the codebase is OPTIONAL.
 
-### The community MAY present regularly at conferences.
+### Regular presentations at conferences by the community are OPTIONAL.

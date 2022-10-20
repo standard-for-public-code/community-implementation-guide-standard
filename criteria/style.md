@@ -29,6 +29,6 @@ order: 15
 
 #### Examples
 
-### The style guide MAY include sections on understandable English.
+### Including sections on understandable English in the style guide is OPTIONAL.
 
 #### Examples

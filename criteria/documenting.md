@@ -57,10 +57,10 @@ order: 9
 
 ### There SHOULD be continuous integration tests for the quality of the documentation.
 
-### The documentation of the codebase MAY contain examples that make users want to immediately start using the codebase.
+### Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
 
 #### Examples
 
 * [CKAN showcase implementations](https://ckan.org/showcase)
 
-### The code MAY be tested by using examples in the documentation.
+### Testing the code by using examples in the documentation is OPTIONAL.
