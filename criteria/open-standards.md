@@ -21,4 +21,3 @@ order: 11
 ### Standards that are machine testable SHOULD be preferred over those that are not.
 
 ### Functionality using features from a standard that is not an open standard MAY be provided if necessary, but only in addition to compliant features.
-

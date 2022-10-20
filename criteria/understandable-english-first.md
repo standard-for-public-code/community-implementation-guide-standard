@@ -46,4 +46,3 @@ While you should try to keep the language plain, don't be afraid to create a glo
 * [Upgoer 5 text editor](https://splasho.com/upgoer5/) by Theo Sanderson, only allows 1000 most common words
 
 ### Any code, documentation or tests MAY have a translation.
-

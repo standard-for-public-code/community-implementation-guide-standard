@@ -50,4 +50,3 @@ The pull request template should include what needs to be reviewed.
 Note: "happen" does not mean "be completed".
 
 ### Reviews MAY be performed by multiple reviewers.
-

@@ -37,4 +37,3 @@ Look if your context have collections of policies that apply to public organizat
 ### Continuous integration tests SHOULD validate that the source code and the policy are executed coherently.
 
 (Any examples?)
-
