@@ -50,3 +50,7 @@ The pull request template should include what needs to be reviewed.
 Note: "happen" does not mean "be completed".
 
 ### Performing reviews by multiple reviewers is OPTIONAL.
+
+## Further reading
+
+This is a short guide that can be useful if you haven't thought about reviewing code from external contributors before: [10 universal steps for open source code review](https://opensource.com/article/22/10/code-review), by Red Hat.
