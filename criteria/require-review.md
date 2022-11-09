@@ -6,6 +6,8 @@ order: 7
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
+This is a short guide that can be useful if you haven't thought about reviewing code from external contributors before: [10 universal steps for open source code review](https://opensource.com/article/22/10/code-review), by Red Hat.
+
 ## Requirements
 
 ### All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor.
