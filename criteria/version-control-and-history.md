@@ -17,7 +17,7 @@ See a list of git options under [All source code for any policy and software in 
 #### Resources
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
-* [GitHub Learning Lab](https://lab.github.com/) by GitHub for learning how to use it or refresh your skills.
+* [GitHub Skills](https://skills.github.com/) by GitHub for learning how to use GitHub or refresh your skills.
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub, a list with the most common used git commands.
 
 ### All files in a codebase MUST be version controlled.
