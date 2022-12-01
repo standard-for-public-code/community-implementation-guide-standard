@@ -59,8 +59,16 @@ Developers should have a technical roadmap informed by the feature roadmap. Crea
 * [Decidim](https://crowdin.com/translate/decidim) (using Crowdin)
 * [FixMyStreet](https://fixmystreet.org/customising/language/) (using Transifex or PoEdit)
 
+#### Further reading
+
+* [Internationalization techniques: Authoring HTML & CSS](https://www.w3.org/International/techniques/authoring-html) by the World Wide Web Consortium.
+
 ### Code and its documentation SHOULD NOT contain situation-specific information.
 
 (can we find examples that were fixed? maybe Omgevingsbelied database tests?)
 
 ### Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts.
+
+## Further reading
+
+* [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) by the OpenAPI Initiative defines a standard, programming language-agnostic interface description for human and machine-readable HTTP APIs.
