@@ -12,7 +12,7 @@ order: 3
 
 #### Examples
 
-* [OpenFisca](https://openfisca.org/en/countries/) is reused in many different countries.
+* [OpenFisca](https://openfisca.org/en/packages/) is reused in many different countries.
 * [Decidim](https://decidim.org/usedby/) is reused in many different countries and on many different levels.
 
 ### The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
