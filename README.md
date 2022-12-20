@@ -2,6 +2,10 @@
 
 This is a repository for guiding implementation choices for the criteria of the [Standard for Public Code](https://standard.publiccode.net), provided by the community.
 
+[![pages-build-deployment](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml)
+[![Scheduled link check](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/link-check.yml)
+
 ## Contribute
 
 Anyone may propose a possible method of meeting a criterion or requirement.
