@@ -23,7 +23,7 @@ Catalogs to consider:
 * [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page)
 * [code.europa.eu](https://code.europa.eu/)
 * [Inter-American Development Bank](https://code.iadb.org/en/about)
-* [Civic Tech Field Guide](https://directory.civictech.guide/tech)
+* [Civic Tech Field Guide](https://directory.civictech.guide/listing-category/the-tech)
 * [Katalog över öppen programvara inom offentlig sektor](https://offentligkod.se/)
 * [Developers Italia Software](https://developers.italia.it/it/software.html)
 * [CodeGouv](https://code.gouv.fr/)
