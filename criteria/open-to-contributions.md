@@ -40,6 +40,7 @@ order: 4
 
 #### Further reading
 
+* [The Good Governance Initiative](https://ospo.zone/ggi/) by the OSPO Alliance has a handbook for building governance.
 * [Best Practices for the Governance of Digital Public Goods](https://ash.harvard.edu/publications/best-practices-governance-digital-public-goods) by the Ash Center for Democratic Governance and Innovation contains a playbook of different pracitces to implement in the governance along with case studies.
 
 ### The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
