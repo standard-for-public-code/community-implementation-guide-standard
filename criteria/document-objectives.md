@@ -17,6 +17,11 @@ Be on the lookout for people, organizations and initiatives with similar objecti
 * [Omgevingsbeleid objectives](https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend#objectives)
 * [Vision and mission of Govdirectory](https://github.com/govdirectory/website/blob/main/CONTRIBUTING.md#direction)
 
+#### Tools
+
+* [Data Ethics Canvas](https://theodi2022.wpengine.com/article/the-data-ethics-canvas-2021/#1674123020653-5e9f001c-5eb8) by the Open Data Institute helps identify and manage ethical issues.
+* [Ethical Explorer](https://ethicalexplorer.org/) helps navigate the future impact of technology.
+
 ### Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
 
 #### Examples
