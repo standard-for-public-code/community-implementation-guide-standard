@@ -24,6 +24,14 @@ See a list of git options under [All source code for any policy and software in 
 
 ### All decisions MUST be documented in commit messages.
 
+#### Tools
+
+* [gnitpick](https://github.com/Seravo/gnitpick) a tool that helps check the messages of every commit.
+
+#### Further reading
+
+* [A note on commit messages](https://bitcrowd.dev/a-note-on-commit-messages) by Bitcrowd contains a lot fo good tips for commit messages.
+
 ### Every commit message MUST link to discussions and issues wherever possible.
 
 ### The codebase SHOULD be maintained in a distributed version control system.
