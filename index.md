@@ -1,4 +1,4 @@
-# Guide for implementing the Standard for Public Code 0.4.0
+# Guide for implementing the Standard for Public Code 0.5.0
 
 This guide is built with the Community, like the Community translations.
 

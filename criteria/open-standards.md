@@ -20,4 +20,6 @@ order: 11
 
 ### If no existing open standard is available, effort SHOULD be put into developing one.
 
-### Standards that are machine testable SHOULD be preferred over those that are not.
+### Open standards that are machine testable SHOULD be preferred over open standards that are not.
+
+### Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not.

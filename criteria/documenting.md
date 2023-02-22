@@ -62,5 +62,3 @@ order: 9
 #### Examples
 
 * [CKAN showcase implementations](https://ckan.org/showcase)
-
-### Testing the code by using examples in the documentation is OPTIONAL.

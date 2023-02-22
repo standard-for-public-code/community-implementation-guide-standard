@@ -10,7 +10,7 @@ order: 15
 
 ## Use a coherent style
 
-### Contributions MUST adhere to either a coding or writing style guide, either the codebase community’s own or an existing one that is advertised in or part of the codebase.
+### The codebase MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase.
 
 #### Examples
 
@@ -25,10 +25,10 @@ order: 15
 
 <!-- When we add the one above, we should also remove it from the standard -->
 
-### The codebase SHOULD include inline comments and documentation for non-trivial sections.
+### The style guide SHOULD include expectations for inline comments and documentation for non-trivial sections.
 
 #### Examples
 
-### Including sections on understandable English in the style guide is OPTIONAL.
+### Including expectations for understandable English in the style guide is OPTIONAL.
 
 #### Examples

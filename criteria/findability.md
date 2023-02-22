@@ -13,6 +13,12 @@ order: 14
 
 ### The codebase MUST be findable using a search engine by codebase name.
 
+### The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
+
+#### Examples
+
+* [FixMyStreet](https://www.fixmystreet.com/)
+
 ### Maintainers SHOULD submit the codebase to relevant software catalogs.
 
 Catalogs to consider:
