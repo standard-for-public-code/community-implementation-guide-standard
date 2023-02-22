@@ -8,7 +8,7 @@ order: 16
 
 ## Requirements
 
-### A codebase MUST be versioned.
+### The codebase MUST be versioned.
 
 Remember to document your versioning strategy to make it clear to other contributors.
 
@@ -20,9 +20,7 @@ Remember to document your versioning strategy to make it clear to other contribu
 
 * [OS2Forms tags](https://github.com/OS2Forms/os2forms/tags) (following semantic versioning)
 
-### A codebase that is ready to use MUST only depend on other codebases that are also ready to use.
-
-### A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version.
+### The codebase MUST prominently document whether or not there are versions of the codebase that are ready to use.
 
 #### Examples
 
@@ -33,8 +31,14 @@ Remember to document your versioning strategy to make it clear to other contribu
 
 <!-- When we add these two above, we should also remove them from the standard -->
 
-### A codebase SHOULD contain a log of changes from version to version, for example in the CHANGELOG.
+### Codebase versions that are ready to use MUST only depend on versions of other codebases that are also ready to use.
+
+### The codebase SHOULD contain a log of changes from version to version, for example in the CHANGELOG.
 
 #### Examples
 
 * [OpenZaak CHANGELOG](https://github.com/open-zaak/open-zaak/blob/main/CHANGELOG.rst)
+
+### The method for assigning version identifiers SHOULD be documented.
+
+### It is OPTIONAL to use semantic versioning.

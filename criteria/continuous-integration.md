@@ -20,7 +20,7 @@ Most code coverage tools have functionality to exclude specific lines if needed.
 
 * [CKAN pull request guidlines](http://docs.ckan.org/en/latest/contributing/pull-requests.html)
 
-### The codebase MUST have active contributors.
+### The codebase MUST have active contributors who can review contributions.
 
 ### The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 
@@ -35,3 +35,5 @@ Most code coverage tools have functionality to exclude specific lines if needed.
 ### Testing policy and documentation for style and broken links is OPTIONAL.
 
 Also explain, and if needed provide links, how the testing is done so that the contributor can be efficient when making their contributions. I.e. list any linters that are used.
+
+### Testing the code by using examples in the documentation is OPTIONAL.

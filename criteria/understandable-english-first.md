@@ -26,12 +26,6 @@ This applies to everything that is in a "released" state. During development, la
 
 While you should try to keep the language plain, don't be afraid to create a glossary for terms that are specific for the domain and would cause even more confusion if they were not used.
 
-### The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
-
-#### Examples
-
-* [FixMyStreet](https://www.fixmystreet.com/)
-
 ### Documentation SHOULD aim for a lower secondary education reading level, as recommended by the Web Content Accessibility Guidelines 2.
 
 #### Resources

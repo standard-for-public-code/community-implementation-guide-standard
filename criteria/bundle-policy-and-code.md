@@ -8,7 +8,7 @@ order: 2
 
 ## Requirements
 
-### A codebase MUST include the policy that the source code is based on.
+### The codebase MUST include the policy that the source code is based on.
 
 Include links in the documentation to the policies that underpin the codebase or its deployments.
 If the policy is short, include it in full.
@@ -17,7 +17,7 @@ Note that links to several layers of the policy might be useful, for example tha
 When adding new features, document what policy they are meant to implement.
 Look if your context have collections of policies that apply to public organizations, like [these for digitalization by the Swedish Agency for Digital Governement](https://www.digg.se/regler-och-rekommendationer).
 
-### A codebase MUST include all source code that the policy is based on, unless used for fraud detection.
+### The codebase MUST include all source code that the policy is based on, unless used for fraud detection.
 
 (Do we have examples of this? OpenFisca?)
 
