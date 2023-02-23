@@ -36,7 +36,11 @@ order: 4
 #### Examples
 
 * [OpenRefine GOVERNANCE](https://github.com/OpenRefine/OpenRefine/blob/master/GOVERNANCE.md), example of a fairly mature governance structure
+
+#### Tools
+
 * [Simple template for GOVERNANCE file](https://about.publiccode.net/activities/supporting-codebase-governance/governance-template.html)
+* The [Governance game](https://governancegame.publiccode.net/) is a tool that help communities explore their needs of governance.
 
 #### Further reading
 
