@@ -23,18 +23,18 @@ order: 14
 
 Catalogs to consider:
 
-* [Digital Public Goods Registry](https://digitalpublicgoods.net/registry/)
-* [DIAL Catalog of Digital Solutions](https://solutions.dial.community/)
-* [The Intergovernmental Software Collaborative](https://softwarecollaborative.org/)
-* [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page)
-* [code.europa.eu](https://code.europa.eu/)
-* [Inter-American Development Bank](https://code.iadb.org/en/about)
-* [Civic Tech Field Guide](https://directory.civictech.guide/listing-category/the-tech)
-* [Katalog över öppen programvara inom offentlig sektor](https://offentligkod.se/)
-* [Developers Italia Software](https://developers.italia.it/it/software.html)
-* [CodeGouv](https://code.gouv.fr/)
-* [Common Ground software products](https://componentencatalogus.commonground.nl/producten)
-* [Open CoDE](https://gitlab.opencode.de/explore)
+* [Digital Public Goods Registry](https://digitalpublicgoods.net/registry/), global
+* [DIAL Catalog of Digital Solutions](https://solutions.dial.community/), global
+* [The Intergovernmental Software Collaborative](https://softwarecollaborative.org/), mostly USA but accepts others
+* [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page), global
+* [code.europa.eu](https://code.europa.eu/), only for the institutions of the European Union
+* [Inter-American Development Bank](https://code.iadb.org/en/about), mostly Latin America and the Caribbean but accepts others
+* [Civic Tech Field Guide](https://directory.civictech.guide/listing-category/the-tech), focus on civic tech but has considerable overlap with public code
+* [Katalog över öppen programvara inom offentlig sektor](https://offentligkod.se/), only for codebases used by Swedish public organizations
+* [Developers Italia Software](https://developers.italia.it/it/software.html), Italian but accepts others
+* [CodeGouv](https://code.gouv.fr/), French
+* [Common Ground software products](https://componentencatalogus.commonground.nl/producten), Dutch
+* [Open CoDE](https://gitlab.opencode.de/explore), German
 
 ### The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
 
