@@ -52,3 +52,7 @@ Can we find good real-world examples of navigating this?
 #### Tools
 
 * The [license compability checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker) by Joinup can be used to see if two licenses are compatible with each other.
+
+#### Further reading
+
+* [License Compatibility](https://www.youtube.com/watch?v=KVleNqyohNY), by Free Software Foundation Europe is a short video giving an introduction to what to think about for code with different licenses.
