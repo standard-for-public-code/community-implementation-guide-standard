@@ -34,6 +34,10 @@ That is, you should preferrably not just mirror the code publicly since that wil
 
 ### Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository.
 
+#### Tools
+
+* On GitHub it's possible to [enable scanning for secrets, keys, or other tokens](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning#about-secret-scanning-alerts-for-users).
+
 ### Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
 
 Tag releases so they can be found/checked-out from source control.
