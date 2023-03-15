@@ -48,3 +48,7 @@ Can we find good real-world examples of navigating this?
 #### Examples
 
 * [Docusaurus](https://github.com/facebook/docusaurus#license) is using MIT for code and CC BY 4.0 for documentation
+
+#### Tools
+
+* The [license compability checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker) by Joinup can be used to see if two licenses are compatible with each other.
