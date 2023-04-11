@@ -33,6 +33,7 @@ Catalogs to consider:
 * [Katalog över öppen programvara inom offentlig sektor](https://offentligkod.se/), only for codebases used by Swedish public organizations
 * [Developers Italia Software](https://developers.italia.it/it/software.html), Italian but accepts others
 * [CodeGouv](https://code.gouv.fr/), French
+* [Developer Overheid repositories](https://developer.overheid.nl/repositories), Dutch
 * [Common Ground software products](https://componentencatalogus.commonground.nl/producten), Dutch
 * [Open CoDE](https://gitlab.opencode.de/explore), German
 
