@@ -41,6 +41,7 @@ order: 4
 
 * [Simple template for GOVERNANCE file](https://about.publiccode.net/activities/supporting-codebase-governance/governance-template.html)
 * The [Governance game](https://governancegame.publiccode.net/) is a tool that help communities explore their needs of governance.
+* [CommunityRule](https://communityrule.info/) is a governance toolkit to create governance files based on templates of common types of governance.
 
 #### Further reading
 
