@@ -4,7 +4,7 @@ This is a repository for guiding implementation choices for the criteria of the 
 
 [![pages-build-deployment](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml)
-[![Scheduled link check](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/link-check.yml)
+[![linkcheck badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/community-implementation-guide-standard.svg)](https://publiccodenet.github.io/publiccodenet-url-check/community-implementation-guide-standard-url-check-look.json)
 
 ## Contribute
 
