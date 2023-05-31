@@ -1,5 +1,7 @@
 ---
 order: 3
+redirect_from:
+  - criteria/reusable-and-portable-codebases
 ---
 # Create reusable and portable code
 

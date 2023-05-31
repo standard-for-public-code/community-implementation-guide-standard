@@ -1,5 +1,7 @@
 ---
 order: 10
+redirect_from:
+  - criteria/understandable-english-first
 ---
 # Use plain English
 

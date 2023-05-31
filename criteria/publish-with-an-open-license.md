@@ -1,5 +1,7 @@
 ---
 order: 13
+redirect_from:
+  - criteria/open-licenses
 ---
 # Publish with an open license
 

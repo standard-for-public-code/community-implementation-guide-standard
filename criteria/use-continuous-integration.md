@@ -1,5 +1,7 @@
 ---
 order: 12
+redirect_from:
+  - criteria/continuous-integration
 ---
 # Use continuous integration
 

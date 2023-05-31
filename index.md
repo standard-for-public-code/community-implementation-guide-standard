@@ -1,4 +1,4 @@
-# Guide for implementing the Standard for Public Code 0.5.0
+# Guide for implementing the Standard for Public Code 0.7.0
 
 This guide is built with the Community, like the Community translations.
 
@@ -17,20 +17,5 @@ We should also critically evaluate if links in the sections Further reading shou
 Advice that touches on the entire criterion goes just under the criterion heading.
 Advice specific to each requirement goes below the requirement heading.
 
-* [Criteria](criteria/)
-  * [Code in the open](criteria/code-in-the-open.md)
-  * [Bundle policy and source code](criteria/bundle-policy-and-code.md)
-  * [Create reusable and portable code](criteria/reusable-and-portable-codebases.md)
-  * [Welcome contributors](criteria/open-to-contributions.md)
-  * [Make contributing easy](criteria/make-contributing-easy.md)
-  * [Maintain version control](criteria/version-control-and-history.md)
-  * [Require review of contributions](criteria/require-review.md)
-  * [Document codebase objectives](criteria/document-objectives.md)
-  * [Document the code](criteria/documenting.md)
-  * [Use plain English](criteria/understandable-english-first.md)
-  * [Use open standards](criteria/open-standards.md)
-  * [Use continuous integration](criteria/continuous-integration.md)
-  * [Publish with an open license](criteria/open-licenses.md)
-  * [Make the codebase findable](criteria/findability.md)
-  * [Use a coherent style](criteria/style.md)
-  * [Document codebase maturity](criteria/document-maturity.md)
+* [Criteria](criteria/){% assign sorted = site.pages| sort:"order" %}{% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+  * [{{page.title}}]({{page.url}}){% endif%}{% endif%}{% endif%}{% endfor %}

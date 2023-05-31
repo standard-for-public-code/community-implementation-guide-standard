@@ -1,5 +1,7 @@
 ---
 order: 7
+redirect_from:
+  - criteria/require-review
 ---
 # Require review of contributions
 
