@@ -17,7 +17,7 @@ Note that links to several layers of the policy might be useful, for example tha
 When adding new features, document what policy they are meant to implement.
 Look if your context have collections of policies that apply to public organizations, like [these for digitalization by the Swedish Agency for Digital Governement](https://www.digg.se/regler-och-rekommendationer).
 
-### The codebase MUST include all source code that the policy is based on, unless used for fraud detection.
+### If a policy is based on source code, that source code MUST be included in the codebase, unless used for fraud detection.
 
 (Do we have examples of this? OpenFisca?)
 

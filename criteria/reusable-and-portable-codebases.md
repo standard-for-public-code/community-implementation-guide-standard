@@ -35,6 +35,8 @@ Developers should have a technical roadmap informed by the feature roadmap. Crea
 
 #### Examples
 
+### The development of the codebase SHOULD be a collaboration between multiple parties.
+
 ### Configuration SHOULD be used to make code adapt to context specific needs.
 
 (e.g.: Signalen logos)
@@ -72,3 +74,5 @@ Developers should have a technical roadmap informed by the feature roadmap. Crea
 ## Further reading
 
 * [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) by the OpenAPI Initiative defines a standard, programming language-agnostic interface description for human and machine-readable HTTP APIs.
+
+### The code SHOULD NOT require services or platforms available from only a single vendor.

@@ -68,8 +68,13 @@ Preferably, anyone should be able to join these and start discussing without req
 * [CivicTech Sweden (RocketChat)](https://chat.civictech.se/home)
 * [Publiccode.yml forum (GitHub discussions)](https://github.com/publiccodeyml/publiccode.yml/discussions)
 
-### The documentation SHOULD include instructions for how to report potentially security sensitive issues on a closed channel.
+### There MUST be a way to report security issues for responsible disclosure over a closed channel.
 
 #### Examples
 
+### The documentation MUST include instructions for how to report potentially security sensitive issues.
+
+#### Examples
+
+* [OpenZaak SECURITY](https://github.com/open-zaak/openzaak/blob/main/SECURITY.rst)
 * [Verdaccio SECURITY](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md)

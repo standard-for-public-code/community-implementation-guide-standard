@@ -50,6 +50,8 @@ order: 4
 * [Organization & Structure of Open Source Software Development Initiatives](https://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf) by Cyberlaw Clinic has a good overview of different governance models.
 * [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9) is an academic article on governance and might be useful for someone that needs solid arguments for their decisions.
 
+### The contribution guidelines SHOULD document who is expected to cover the costs of reviewing contributions.
+
 ### The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
 
 #### Examples
