@@ -8,7 +8,7 @@ order: 6
 
 ## Requirements
 
-### The community MUST have a way to maintain version control for the code.
+### All files in a codebase MUST be version controlled.
 
 Git is great.
 
@@ -19,8 +19,6 @@ See a list of git options under [All source code for any policy and software in 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [GitHub Skills](https://skills.github.com/) by GitHub for learning how to use GitHub or refresh your skills.
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub, a list with the most common used git commands.
-
-### All files in a codebase MUST be version controlled.
 
 ### All decisions MUST be documented in commit messages.
 
@@ -38,7 +36,7 @@ See a list of git options under [All source code for any policy and software in 
 
 Git is great.
 
-### Contributors SHOULD group relevant changes in commits.
+### Contribution guidelines SHOULD require contributors to group relevant changes in commits.
 
 ### Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
 
@@ -46,7 +44,7 @@ Git is great.
 
 * [Mosip Registration releases](https://github.com/mosip/registration/releases)
 
-### Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
+### Contribution guidelines SHOULD encourage file formats where the changes within the files can be easily viewed and understood in the version control system.
 
 <!-- Make a list of preferred file formats -->
 

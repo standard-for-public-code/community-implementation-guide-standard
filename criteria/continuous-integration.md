@@ -22,6 +22,8 @@ Most code coverage tools have functionality to exclude specific lines if needed.
 
 ### The codebase MUST have active contributors who can review contributions.
 
+### Automated test results for contributions SHOULD be public.
+
 ### The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 
 #### Examples

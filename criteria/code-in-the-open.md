@@ -32,7 +32,7 @@ That is, you should preferrably not just mirror the code publicly since that wil
 
 <!-- Check if some countries already have repository guidelines or provide hosted services for public orgs and list them here too -->
 
-### Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository.
+### The codebase MUST NOT contain sensitive information regarding users, their organization or third parties.
 
 ### Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
 

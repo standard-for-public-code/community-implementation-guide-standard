@@ -9,15 +9,13 @@ order: 14
 
 ## Requirements
 
-### The codebase MUST be findable using a search engine by description of the problem it solves in natural language.
-
-### The codebase MUST be findable using a search engine by codebase name.
-
 ### The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 
 #### Examples
 
 * [FixMyStreet](https://www.fixmystreet.com/)
+
+### The codebase SHOULD have a short description that helps someone understand what the codebase is for or what it does.
 
 ### Maintainers SHOULD submit the codebase to relevant software catalogs.
 
@@ -38,6 +36,10 @@ Catalogs to consider:
 * [Open CoDE](https://gitlab.opencode.de/explore), German
 
 ### The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
+
+### The codebase SHOULD be findable using a search engine by codebase name.
+
+### The codebase SHOULD be findable using a search engine by description of the problem it solves in natural language.
 
 ### The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website.
 
