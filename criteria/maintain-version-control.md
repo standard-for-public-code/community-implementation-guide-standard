@@ -1,5 +1,7 @@
 ---
 order: 6
+redirect_from:
+  - criteria/version-control-and-history
 ---
 # Maintain version control
 

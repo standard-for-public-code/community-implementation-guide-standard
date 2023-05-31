@@ -1,5 +1,7 @@
 ---
 order: 14
+redirect_from:
+  - criteria/findability
 ---
 
 # Make the codebase findable

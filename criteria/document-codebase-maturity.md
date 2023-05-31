@@ -1,5 +1,7 @@
 ---
 order: 16
+redirect_from:
+    - criteria/document-maturity
 ---
 # Document codebase maturity
 

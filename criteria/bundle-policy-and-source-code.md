@@ -1,5 +1,7 @@
 ---
 order: 2
+redirect_from:
+  - criteria/bundle-policy-and-code
 ---
 # Bundle policy and source code
 

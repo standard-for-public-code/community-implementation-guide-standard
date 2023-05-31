@@ -1,5 +1,7 @@
 ---
 order: 8
+redirect_from:
+  - criteria/document-objectives
 ---
 # Document codebase objectives
 

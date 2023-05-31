@@ -1,5 +1,7 @@
 ---
 order: 9
+redirect_from:
+  - criteria/documenting
 ---
 # Document the code
 

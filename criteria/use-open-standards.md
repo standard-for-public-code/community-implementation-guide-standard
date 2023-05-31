@@ -1,5 +1,7 @@
 ---
 order: 11
+redirect_from:
+  - criteria/open-standards
 ---
 # Use open standards
 

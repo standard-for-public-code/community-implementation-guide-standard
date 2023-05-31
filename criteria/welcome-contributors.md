@@ -1,5 +1,7 @@
 ---
 order: 4
+redirect_from:
+  - criteria/open-to-contributions
 ---
 # Welcome contributors
 

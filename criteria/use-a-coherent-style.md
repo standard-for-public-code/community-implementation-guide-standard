@@ -1,5 +1,7 @@
 ---
 order: 15
+edirect_from:
+  - criteria/style
 ---
 # Use a coherent style
 
