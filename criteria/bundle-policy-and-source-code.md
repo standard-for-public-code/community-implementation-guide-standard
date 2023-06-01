@@ -17,7 +17,7 @@ If the policy is short, include it in full.
 If the policy is long, make sure that at least a summary is available in the documentation.
 Note that links to several layers of the policy might be useful, for example that the codebase aims to implement an EU directive, but a feature might specifically be made to comply with the law that is the implemenation of the directive in a single member state. In this case both levels are useful to include.
 When adding new features, document what policy they are meant to implement.
-Look if your context have collections of policies that apply to public organizations, like [these for digitalization by the Swedish Agency for Digital Governement](https://www.digg.se/regler-och-rekommendationer).
+Look if your context have collections of policies that apply to public organizations, like [these for digitalization by the Swedish Agency for Digital Governement](https://www.digg.se/regler-och-rekommendationer#/).
 
 ### If a policy is based on source code, that source code MUST be included in the codebase, unless used for fraud detection.
 
