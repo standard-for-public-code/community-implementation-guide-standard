@@ -76,5 +76,5 @@ Preferably, anyone should be able to join these and start discussing without req
 
 #### Examples
 
-* [OpenZaak SECURITY](https://github.com/open-zaak/openzaak/blob/main/SECURITY.rst)
+* [OpenZaak SECURITY](https://github.com/open-zaak/open-zaak/blob/main/SECURITY.rst)
 * [Verdaccio SECURITY](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md)
