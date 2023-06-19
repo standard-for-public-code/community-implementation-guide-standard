@@ -10,7 +10,7 @@ include:
   - "LICENSE.md"
   - "CODE_OF_CONDUCT.md"
 
-baseurl: /community-implementation-guide-standard
+# baseurl: /community-implementation-guide-standard
 
 toc: true
 
