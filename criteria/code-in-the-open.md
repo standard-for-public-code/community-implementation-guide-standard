@@ -22,10 +22,10 @@ That is, you should preferrably not just mirror the code publicly since that wil
 
 <!-- List of git-platforms -->
 * [GitHub](https://github.com/): +largest community, +free for FOSS codebases, -cannot be self-hosted, -possibly GDPR-problems, -not FOSS
-* [GitLab](https://gitlab.com/): +can be self-hosted, -hosted version is not FOSS
-* [Gitea](https://gitea.io/):
+* [GitLab](https://gitlab.com/): +can be self-hosted, +free for FOSS codebases, -hosted version is not FOSS
+* [Gitea](https://gitea.io/): +can be self-hosted
 * [Codeberg](https://codeberg.org): (hosted Gitea)
-* [Sourcehut](https://sourcehut.org): -still in alpha
+* [Sourcehut](https://sourcehut.org): +can be self-hosted, -still in alpha
 * [IEEE SA open](https://saopen.ieee.org/): (hosted GitLab)
 * [Bitbucket](https://bitbucket.org/): -cannot be self-hosted, -not FOSS
 * [Gitpod](https://www.gitpod.io/): (packing around other git services) +can be self-hosted
