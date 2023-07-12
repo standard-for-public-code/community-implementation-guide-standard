@@ -10,6 +10,8 @@ Share generously about your work and [radiate your intent](https://medium.com/@E
 
 The Welsh Land and Property Data publish [open weeknotes](https://welsh-revenue-authority.github.io/weeknotes/property-data-poc/) from their development team, this is a great way of communicating what you are working on.
 
+The course Teaching Public Service in the Digital Age has a unit on [Working in the open](https://lunar-eclipse-a5a.notion.site/Unit-7-Working-in-the-open-f6157a34cc494e90a7fede0e931b7640), which is a thorough resource with plenty of further reading.
+
 ## Requirements
 
 ### All source code for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
