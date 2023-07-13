@@ -27,6 +27,7 @@ Catalogs to consider:
 * [DIAL Catalog of Digital Solutions](https://solutions.dial.community/), global
 * [The Intergovernmental Software Collaborative](https://softwarecollaborative.org/), mostly USA but accepts others
 * [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page), global
+* [The Research Software Directory](https://helmholtz.software/), global but only research related software
 * [code.europa.eu](https://code.europa.eu/), only for the institutions of the European Union
 * [Inter-American Development Bank](https://code.iadb.org/en/about), mostly Latin America and the Caribbean but accepts others
 * [Civic Tech Field Guide](https://directory.civictech.guide/listing-category/the-tech), focus on civic tech but has considerable overlap with public code
