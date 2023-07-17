@@ -45,6 +45,11 @@ Catalogs to consider:
 
 ### The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website.
 
+### Tools
+
+* [Wikidata](https://www.wikidata.org) - by creating an "item" an identifier is generated. Make sure to add references so that the information can be verified.
+* [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page) - by submitting a new entry an identifier is generated.
+
 ### The codebase SHOULD include a machine-readable metadata description, for example in a publiccode.yml file.
 
 #### Tools
