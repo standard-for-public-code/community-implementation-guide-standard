@@ -1,6 +1,6 @@
 # Guide for implementing the Standard for Public Code 0.7.0
 
-This guide is built with the Community, like the Community translations.
+This guide is built with the Community, like the [Community translations](https://publiccodenet.github.io/community-translations-standard/).
 
 It should help when someone asks the question "How can I meet this requirement?" or "What do I need to do to meet this requirement?"
 
@@ -11,8 +11,8 @@ We should keep in mind "there's more than one way to do it": where it makes sens
 
 The guide could also invite for conversation about solutions in specific cases.
 
-It may have some general advice inspired by the sections "How to test", "what you need to do" and "further reading" sessions.
-We should also critically evaluate if links in the sections Further reading should move here.
+It may have some general advice inspired by the sections "How to test", "What you need to do" and "Further reading" sessions.
+We should also critically evaluate if links in the sections Further reading in the Standard for Public Code itself should move here.
 
 Advice that touches on the entire criterion goes just under the criterion heading.
 Advice specific to each requirement goes below the requirement heading.
