@@ -16,7 +16,11 @@ redirect_from:
 
 ### Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available.
 
+Besides making a list, consider adding badges to the repository for the standards used so that contributors immediately see shat is required for a contribution to the codebase.
+
 #### Examples
+
+* [Standard for Public Code](https://github.com/publiccodenet/standard#standard-for-public-code) - showing both a badge in use and instructions for how to apply it.
 
 ### Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
 
