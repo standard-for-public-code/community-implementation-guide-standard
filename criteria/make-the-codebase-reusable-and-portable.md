@@ -2,8 +2,9 @@
 order: 3
 redirect_from:
   - criteria/reusable-and-portable-codebases
+  - criteria/create-reusable-and-portable-code
 ---
-# Create reusable and portable code
+# Make the codebase reusable and portable
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
@@ -17,7 +18,7 @@ redirect_from:
 * [OpenFisca](https://openfisca.org/en/packages/) is reused in many different countries.
 * [Decidim](https://decidim.org/usedby/) is reused in many different countries and on many different levels.
 
-### The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
+### The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed software or services for execution and understanding.
 
 (This is more of a "don't do" rather than a "do like this"; is there anything that a guide should have here?)
 
@@ -39,7 +40,7 @@ Developers should have a technical roadmap informed by the feature roadmap. Crea
 
 ### The development of the codebase SHOULD be a collaboration between multiple parties.
 
-### Configuration SHOULD be used to make code adapt to context specific needs.
+### Configuration SHOULD be used to make source code adapt to context specific needs.
 
 (e.g.: Signalen logos)
 (Municipio color schemes)
@@ -67,7 +68,7 @@ Developers should have a technical roadmap informed by the feature roadmap. Crea
 
 * [Internationalization techniques: Authoring HTML & CSS](https://www.w3.org/International/techniques/authoring-html) by the World Wide Web Consortium.
 
-### Code and its documentation SHOULD NOT contain situation-specific information.
+### Source code and its documentation SHOULD NOT contain situation-specific information.
 
 (can we find examples that were fixed? maybe Omgevingsbelied database tests?)
 
@@ -77,4 +78,4 @@ Developers should have a technical roadmap informed by the feature roadmap. Crea
 
 * [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) by the OpenAPI Initiative defines a standard, programming language-agnostic interface description for human and machine-readable HTTP APIs.
 
-### The code SHOULD NOT require services or platforms available from only a single vendor.
+### The software SHOULD NOT require services or platforms available from only a single vendor.

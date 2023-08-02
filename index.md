@@ -1,4 +1,4 @@
-# Guide for implementing the Standard for Public Code 0.7.0
+# Guide for implementing the Standard for Public Code 0.7.1
 
 This guide is built with the Community, like the [Community translations](https://publiccodenet.github.io/community-translations-standard/).
 
