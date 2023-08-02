@@ -43,7 +43,7 @@ The pull request template should include what needs to be reviewed.
 
 The pull request template should include what needs to be reviewed.
 
-### Reviews SHOULD include running both the code and the tests of the codebase.
+### Reviews SHOULD include running both the software and the tests of the codebase.
 
 ### Contributions SHOULD be reviewed by someone in a different context than the contributor.
 

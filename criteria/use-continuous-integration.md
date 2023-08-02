@@ -40,4 +40,4 @@ Most code coverage tools have functionality to exclude specific lines if needed.
 
 Also explain, and if needed provide links, how the testing is done so that the contributor can be efficient when making their contributions. I.e. list any linters that are used.
 
-### Testing the code by using examples in the documentation is OPTIONAL.
+### Testing the software by using examples in the documentation is OPTIONAL.

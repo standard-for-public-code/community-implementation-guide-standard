@@ -23,11 +23,11 @@ redirect_from:
 
 ## Requirements
 
-### All of the functionality of the codebase, policy as well as source, MUST be described in language clearly understandable for those that understand the purpose of the code.
+### All of the functionality of the codebase, policy as well as source code, MUST be described in language clearly understandable for those that understand the purpose of the code.
 
 #### Examples
 
-### The documentation of the codebase MUST contain a description of how to install and run the source code.
+### The documentation of the codebase MUST contain a description of how to install and run the software.
 
 #### Examples
 

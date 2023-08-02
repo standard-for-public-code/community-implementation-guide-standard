@@ -16,7 +16,7 @@ redirect_from:
 
 * [Notify documentation](https://github.com/alphagov/notifications-manuals/wiki)
 
-### All code MUST be in English, except where policy is machine interpreted as code.
+### All source code MUST be in English, except where policy is machine interpreted as code.
 
 ### All bundled policy not available in English MUST have an accompanying summary in English.
 

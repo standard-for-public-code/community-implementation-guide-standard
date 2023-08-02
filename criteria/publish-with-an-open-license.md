@@ -10,7 +10,7 @@ redirect_from:
 
 ## Requirements
 
-### All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
+### All source code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
 
 #### Tools
 
@@ -26,7 +26,7 @@ redirect_from:
 
 ### Software source code MUST be licensed under an OSI-approved or FSF Free/Libre license.
 
-### All code MUST be published with a license file.
+### All source code MUST be published with a license file.
 
 ### Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 
@@ -45,7 +45,7 @@ Can we find good real-world examples of navigating this?
 
 * [Curl is REUSE compliant](https://daniel.haxx.se/blog/2022/06/17/curl-is-reuse-compliant/)
 
-### Having multiple licenses for different types of code and documentation is OPTIONAL.
+### Having multiple licenses for different types of source code and documentation is OPTIONAL.
 
 #### Examples
 
