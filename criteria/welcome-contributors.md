@@ -47,7 +47,7 @@ redirect_from:
 
 #### Further reading
 
-* [The Good Governance Initiative](https://ospo.zone/ggi/) by the OSPO Alliance has a handbook for building governance.
+* [The Good Governance Initiative](https://ospo-alliance.org/ggi/) by the OSPO Alliance has a handbook for building governance.
 * [Best Practices for the Governance of Digital Public Goods](https://ash.harvard.edu/publications/best-practices-governance-digital-public-goods) by the Ash Center for Democratic Governance and Innovation contains a playbook of different pracitces to implement in the governance along with case studies.
 * [Organization & Structure of Open Source Software Development Initiatives](https://web.archive.org/web/20220526100844/https://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf) by Cyberlaw Clinic has a good overview of different governance models.
 * [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9) is an academic article on governance and might be useful for someone that needs solid arguments for their decisions.
