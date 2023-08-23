@@ -1,7 +1,7 @@
 ---
 order: 1
 ---
-# Code in the open
+# Code in the open [![This criterion in the Standard for Public Code]({{site.url}}/assets/link-symbol.png)](https://standard.publiccode.net/criteria/code-in-the-open.html)
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->

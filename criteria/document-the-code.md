@@ -3,7 +3,7 @@ order: 9
 redirect_from:
   - criteria/documenting
 ---
-# Document the code
+# Document the code [![This criterion in the Standard for Public Code]({{site.url}}/assets/link-symbol.png)](https://standard.publiccode.net/criteria/document-the-code.html)
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->

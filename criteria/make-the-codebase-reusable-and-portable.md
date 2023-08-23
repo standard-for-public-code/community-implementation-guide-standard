@@ -4,7 +4,7 @@ redirect_from:
   - criteria/reusable-and-portable-codebases
   - criteria/create-reusable-and-portable-code
 ---
-# Make the codebase reusable and portable
+# Make the codebase reusable and portable [![This criterion in the Standard for Public Code]({{site.url}}/assets/link-symbol.png)](https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html)
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
