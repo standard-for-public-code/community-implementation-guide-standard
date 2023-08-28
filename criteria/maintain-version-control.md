@@ -3,7 +3,7 @@ order: 6
 redirect_from:
   - criteria/version-control-and-history
 ---
-# Maintain version control
+# Maintain version control [![This criterion in the Standard for Public Code]({{site.url}}/assets/link-symbol.png)](https://standard.publiccode.net/criteria/maintain-version-control.html)
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
