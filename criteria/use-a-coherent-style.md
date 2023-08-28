@@ -3,7 +3,7 @@ order: 15
 edirect_from:
   - criteria/style
 ---
-# Use a coherent style [![This criterion in the Standard for Public Code]({{site.url}}/assets/link-symbol.png)](https://standard.publiccode.net/criteria/use-a-coherent-style.html)
+# Use a coherent style [![This criterion in the Standard for Public Code](../assets/link-symbol.png)](https://standard.publiccode.net/criteria/use-a-coherent-style.html)
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
