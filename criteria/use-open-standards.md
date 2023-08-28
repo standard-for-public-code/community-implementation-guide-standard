@@ -3,7 +3,7 @@ order: 11
 redirect_from:
   - criteria/open-standards
 ---
-# Use open standards [![This criterion in the Standard for Public Code]({{site.url}}/assets/link-symbol.png)](https://standard.publiccode.net/criteria/use-open-standards.html)
+# Use open standards [![This criterion in the Standard for Public Code](../assets/link-symbol.png)](https://standard.publiccode.net/criteria/use-open-standards.html)
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->

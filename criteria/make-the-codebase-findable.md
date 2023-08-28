@@ -4,7 +4,7 @@ redirect_from:
   - criteria/findability
 ---
 
-# Make the codebase findable [![This criterion in the Standard for Public Code]({{site.url}}/assets/link-symbol.png)](https://standard.publiccode.net/criteria/make-the-codebase-findable.html)
+# Make the codebase findable [![This criterion in the Standard for Public Code](../assets/link-symbol.png)](https://standard.publiccode.net/criteria/make-the-codebase-findable.html)
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
