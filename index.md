@@ -1,6 +1,6 @@
-# Guide for implementing the Standard for Public Code 0.7.1
+# Community built companion to the Standard for Public Code 0.7.1
 
-This guide is built with the Community, like the [Community translations](https://publiccodenet.github.io/community-translations-standard/).
+This companion is built with the Community, like the [Community translations](https://publiccodenet.github.io/community-translations-standard/).
 
 It should help when someone asks the question "How can I meet this requirement?" or "What do I need to do to meet this requirement?"
 
