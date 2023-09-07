@@ -9,6 +9,7 @@ This is a repository for guiding implementation choices for the criteria of the 
 ## Contribute
 
 Anyone may propose a possible method of meeting a criterion or requirement.
+Besides adding examples, this is [our roadmap](roadmap.md) for this codebase.
 
 Examples should be placed closest to their relevant component.
 If the proposal is specific to a requirement, then the example should be place under the requirement.
