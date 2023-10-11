@@ -16,8 +16,7 @@
 # MD024 Multiple headers with the same content
 # MD026 Trailing punctuation in header
 # MD032 Lists should be surrounded by blank lines
-# MD034 Bare URL used
 # MD055 Table row doesn't begin/end with pipes
 # MD057 Table has missing or invalid header separation
-
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD024,~MD026,~MD032,~MD034,~MD055,~MD057 -i -g '.'
+#
+bundle exec mdl -r ~MD007,~MD013,~MD029,~MD024,~MD026,~MD032,~MD055,~MD057 -i -g '.'
