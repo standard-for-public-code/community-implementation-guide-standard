@@ -12,6 +12,8 @@ The Welsh Land and Property Data publish [open weeknotes](https://welsh-revenue-
 
 The course Teaching Public Service in the Digital Age has a unit on [Working in the open](https://lunar-eclipse-a5a.notion.site/Unit-7-Working-in-the-open-f6157a34cc494e90a7fede0e931b7640), which is a thorough resource with plenty of further reading.
 
+While not only covering open source tools, the site [EU alternatives](https://dasprive.be/eu-alternatives/) lists tools and services that are compliant with EU regulations, and many of them have a spirit of openness.
+
 ## Requirements
 
 ### All source code for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
