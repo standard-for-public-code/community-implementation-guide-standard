@@ -39,7 +39,7 @@ The pull request template should include what needs to be reviewed.
 
 #### Examples
 
-### he review process SHOULD confirm that a contributionconforms to the standards, architecture and decisions set out in the codebase in order to pass review.
+### The review process SHOULD confirm that a contribution conforms to the standards, architecture and decisions set out in the codebase in order to pass review.
 
 The pull request template should include what needs to be reviewed.
 
