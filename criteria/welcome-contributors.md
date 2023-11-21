@@ -80,3 +80,5 @@ This could also be solved by having public task boards/kanban boards with suitab
 ### Including a code of conduct for contributors in the codebase is OPTIONAL.
 
 #### Examples
+
+* [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/) is a code of conduct with a set of core values and norms that are essential in a just and equitable software commons. It can be adapted to include the special shared values and norms particular to your own community and its members.
