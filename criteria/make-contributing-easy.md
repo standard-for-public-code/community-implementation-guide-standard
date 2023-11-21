@@ -31,7 +31,7 @@ In many platforms, like GitHub, GitLab, Gitea etc. these links are automatically
 #### Further reading
 
 * [18Fs Open Source Guide on `README`s](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)
-* [Jesse Luotos `README` best practices](https://github.com/jehna/readme-best-practices/)
+* [Jesse Luotos `README` best practices](https://github.com/jehna/readme-best-practices/blob/master/README-default.md)
 * [`README`s for GOV.UK applications](https://docs.publishing.service.gov.uk/manual/readmes.html)
 
 ### The codebase MUST have communication channels for users and developers, for example email lists.
