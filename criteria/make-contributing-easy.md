@@ -65,7 +65,7 @@ Preferably, anyone should be able to join these and start discussing without req
 
 * [FixMyStreet community page with multiple options](https://fixmystreet.org/community/)
 * [OpenZaak mailing list (Mailman/Postorius/Hyperkitty)](https://lists.publiccode.net/mailman/postorius/lists/openzaak-discuss.lists.publiccode.net/)
-* [CivicTech Sweden (RocketChat)](https://chat.civictech.se/home)
+* [CivicTech Sweden (matrix)](https://app.element.io/#/room/#civictechse:matrix.org)
 * [Publiccode.yml forum (GitHub discussions)](https://github.com/publiccodeyml/publiccode.yml/discussions)
 
 ### There MUST be a way to report security issues for responsible disclosure over a closed channel.
