@@ -28,6 +28,12 @@ order: 5
 
 In many platforms, like GitHub, GitLab, Gitea etc. these links are automatically provided in the interface. If you don't use the features of the platform, for example if you have a separate issue tracker, then you must provide these links.
 
+#### Further reading
+
+* [18Fs Open Source Guide on `README`s](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)
+* [Jesse Luotos `README` best practices](https://github.com/jehna/readme-best-practices/blob/master/README-default.md)
+* [`README`s for GOV.UK applications](https://docs.publishing.service.gov.uk/manual/readmes.html)
+
 ### The codebase MUST have communication channels for users and developers, for example email lists.
 
 Preferably, anyone should be able to join these and start discussing without requiring an invite or other manual intervention.
