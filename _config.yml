@@ -14,6 +14,9 @@ include:
 
 toc: true
 
+hide_foundation_footer: true
+hide_foundation_footer_logo: true
+
 defaults:
   -
     scope:
