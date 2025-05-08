@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ -z "$VERBOSE" ]; then VERBOSE=0; fi
+if [ "$VERBOSE" -gt 1 ]; then set -x; fi
+set -e
+set -o pipefail
+
 # This script is referenced by .github/workflows/test.yml which executes on
 # each pull request.
 
@@ -16,11 +21,20 @@ SKIP_PATTERNS=(
 	'http://localhost' # local host
 )
 
-if [ "_${VERBOSE}_" == "__" ]; then VERBOSE=0; fi
+BRANCH=$(git rev-parse --abbrev-ref HEAD)
+REMOTE=$(git config branch.$BRANCH.remote || echo "origin")
+git fetch --depth=1 $REMOTE main
+GIT_DIFF_OUTPUT=$(git diff $REMOTE/main)
 
-for URL in $(git diff develop |
-		grep '^+' |
-		grep -Eo '(http|https)://[^ )"><]+'); do
+# the greps are allowed to "fail" without matching
+URLS=$(echo "$GIT_DIFF_OUTPUT" \
+	| grep '^+' \
+	| grep --extended-regexp --only-matching \
+			'(http|https)://[^ )"><]+' \
+	|| true
+)
+
+for URL in $URLS; do
 	SKIP_URL=0
 	for PATTERN in "${SKIP_PATTERNS[@]}"; do
 		if echo "$URL" | grep --quiet --extended-regexp "$PATTERN"
