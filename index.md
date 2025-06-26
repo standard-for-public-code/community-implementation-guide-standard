@@ -1,11 +1,9 @@
-# Community built companion to the Standard for Public Code 0.7.1
+# Implementation guide to the Standard for Public Code 0.7.1
 
-This companion is built with the Community, like the [Community translations](https://publiccodenet.github.io/community-translations-standard/).
-
-It should help when someone asks the question "How can I meet this requirement?" or "What do I need to do to meet this requirement?"
+This guide should help when someone asks the question "How can I meet this requirement?" or "What do I need to do to meet this requirement?"
 
 It can contain examples of implementations, tools, methods that would meet a specific requirement.
-The things that are added should almost be considered to be "pre-approved", meaning that if you were using the guide (and in good spirit) you are almost certain to get a pass when assessed by the Foundation for Public Code.
+The things that are added should almost be considered to be "pre-approved", meaning that if you were using the guide (and in good spirit) you are almost certain to get a pass.
 
 We should keep in mind "there's more than one way to do it": where it makes sense, provide multiple options, especially linking to examples.
 
