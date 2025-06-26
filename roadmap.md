@@ -7,6 +7,6 @@
 
 ## Longer term
 
-* Make the workflow of updating the companion after a release of the standard easier
+* Make the workflow of updating the implementation guide after a release of the standard easier
 * Provide examples covering all criteria and their requirements
 * [Bespoke domain name](https://github.com/publiccodenet/community-implementation-guide-standard/issues/81)
