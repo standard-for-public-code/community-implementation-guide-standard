@@ -19,7 +19,6 @@ If the proposal spans multiple criteria it should be above the list of criteria.
 ### Review of a contributions
 
 Before we merge a pull request of a new or updated proposal, it needs to be reviewed.
-Reviewers should include a codebase steward of the Foundation for Public Code.
 
 ## Problems, suggestions and questions in issues
 
