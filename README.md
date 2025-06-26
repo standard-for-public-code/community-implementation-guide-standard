@@ -1,4 +1,4 @@
-# Community built companion to the Standard for Public Code
+# Implementation guide to the Standard for Public Code
 
 This is a repository for guiding implementation choices for the criteria of the [Standard for Public Code](https://standard.publiccode.net), provided by the community.
 
