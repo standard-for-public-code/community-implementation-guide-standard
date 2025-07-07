@@ -1,10 +1,9 @@
 # Implementation guide to the Standard for Public Code
 
-This is a repository for guiding implementation choices for the criteria of the [Standard for Public Code](https://standard.publiccode.net).
+This is a repository for guiding implementation choices for the criteria of the [Standard for Public Code](https://www.standardforpubliccode.org).
 
-[![pages-build-deployment](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment)
-[![Test](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml)
-[![linkcheck badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/community-implementation-guide-standard.svg)](https://publiccodenet.github.io/publiccodenet-url-check/community-implementation-guide-standard-url-check-look.json)
+[![pages-build-deployment](https://github.com/standard-for-public-code/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/standard-for-public-code/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/standard-for-public-code/community-implementation-guide-standard/actions/workflows/test.yml/badge.svg)](https://github.com/standard-for-public-code/community-implementation-guide-standard/actions/workflows/test.yml)
 
 ## Contribute
 
@@ -22,8 +21,7 @@ Before we merge a pull request of a new or updated proposal, it needs to be revi
 
 ## Problems, suggestions and questions in issues
 
-You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues](https://github.com/publiccodenet/community-implementation-guide-standard/issues).
-Or, sign up to the [Standard for Public Code mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
+You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues](https://github.com/standard-for-public-code/community-implementation-guide-standard/issues).
 
 ## Preview, build and deploy
 
