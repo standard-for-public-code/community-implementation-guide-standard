@@ -1,6 +1,6 @@
-# Community built companion to the Standard for Public Code
+# Implementation guide to the Standard for Public Code
 
-This is a repository for guiding implementation choices for the criteria of the [Standard for Public Code](https://standard.publiccode.net), provided by the community.
+This is a repository for guiding implementation choices for the criteria of the [Standard for Public Code](https://standard.publiccode.net).
 
 [![pages-build-deployment](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml)
@@ -19,7 +19,6 @@ If the proposal spans multiple criteria it should be above the list of criteria.
 ### Review of a contributions
 
 Before we merge a pull request of a new or updated proposal, it needs to be reviewed.
-Reviewers should include a codebase steward of the Foundation for Public Code.
 
 ## Problems, suggestions and questions in issues
 
