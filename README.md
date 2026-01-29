@@ -7,6 +7,10 @@ This is a repository for guiding implementation choices for the criteria of the 
 
 ## Contribute
 
+The Standard for Public Code is [community governed](https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/GOVERNANCE.md).
+
+Join our [community calls](https://community.standardforpubliccode.org/), come say hello on our [discussion board](https://github.com/standard-for-public-code/standard-for-public-code/discussions), or feel free to leave an issue on any of [our repositories](https://github.com/orgs/standard-for-public-code/repositories).
+
 Anyone may propose a possible method of meeting a criterion or requirement.
 Besides adding examples, this is [our roadmap](roadmap.md) for this codebase.
 
