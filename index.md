@@ -7,6 +7,8 @@ The things that are added should almost be considered to be "pre-approved", mean
 
 We should keep in mind "there's more than one way to do it": where it makes sense, provide multiple options, especially linking to examples.
 
+For further inspiration, check out [existing users' assessments against the Standard for Public Code](https://github.com/standard-for-public-code#whos-using-the-standard-for-public-code).
+
 The guide could also invite for conversation about solutions in specific cases.
 
 It may have some general advice inspired by the sections "How to test", "What you need to do" and "Further reading" sessions.
