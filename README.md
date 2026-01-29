@@ -15,7 +15,7 @@ If the proposal is specific to a requirement, then the example should be place u
 If the proposal is spanning several requirements of a criterion, it should be placed in the criterion above the requirements.
 If the proposal spans multiple criteria it should be above the list of criteria.
 
-For inspiration of existing solutions that may not have been added here yet, check the assessments of [users of the Standard for Public Code](https://github.com/standard-for-public-code#whos-using-the-standard-for-public-code).
+For further real world examples of Standard for Public Code implementation, check out [existing users' assessments against the Standard](https://github.com/standard-for-public-code#whos-using-the-standard-for-public-code).
 
 ### Review of a contributions
 
