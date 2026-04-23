@@ -35,7 +35,6 @@ Catalogs to consider:
 * [Developers Italia Software](https://developers.italia.it/it/software.html), Italian but accepts others
 * [CodeGouv](https://code.gouv.fr/), French
 * [Developer Overheid repositories](https://developer.overheid.nl/repositorys), Dutch
-* [Common Ground software products](https://componentencatalogus.commonground.nl/producten), Dutch
 * [Open CoDE](https://gitlab.opencode.de/explore), German
 
 ### The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
