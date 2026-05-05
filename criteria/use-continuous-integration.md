@@ -20,7 +20,7 @@ Most code coverage tools have functionality to exclude specific lines if needed.
 
 #### Examples
 
-* [CKAN pull request guidlines](http://docs.ckan.org/en/latest/contributing/pull-requests.html)
+* [CKAN pull request guidelines](http://docs.ckan.org/en/latest/contributing/pull-requests.html)
 
 ### The codebase MUST have active contributors who can review contributions.
 
@@ -30,7 +30,7 @@ Most code coverage tools have functionality to exclude specific lines if needed.
 
 #### Examples
 
-* [CKAN pull request guidlines](http://docs.ckan.org/en/latest/contributing/pull-requests.html)
+* [CKAN pull request guidelines](http://docs.ckan.org/en/latest/contributing/pull-requests.html)
 
 ### Source code test and documentation coverage SHOULD be monitored.
 
