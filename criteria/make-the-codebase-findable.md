@@ -34,8 +34,8 @@ Catalogs to consider:
 * [Katalog över öppen programvara inom offentlig sektor](https://offentligkod.se/), only for codebases used by Swedish public organizations
 * [Developers Italia Software](https://developers.italia.it/it/software.html), Italian but accepts others
 * [CodeGouv](https://code.gouv.fr/), French
-* [Developer Overheid repositories](https://developer.overheid.nl/repositorys), Dutch
-* [Common Ground software products](https://componentencatalogus.commonground.nl/producten), Dutch
+* [Common Ground component catalog](https://commonground.opencatalogi.nl/components), Dutch
+* [Developer Overheid OSS-register](https://oss.developer.overheid.nl/), Dutch
 * [Open CoDE](https://gitlab.opencode.de/explore), German
 
 ### The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
