@@ -20,6 +20,7 @@ redirect_from:
 ### Resources
 
 * [How to write a README](https://github.com/Amsterdam/amsterdam.github.io/blob/master/guides/write-a-readme.md), guide from the municipality of Amsterdam.
+* [Instructions for adding a README file on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). This is linked as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
 
 ## Requirements
 
