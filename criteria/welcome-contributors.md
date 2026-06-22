@@ -81,6 +81,11 @@ This could also be solved by having public task boards/kanban boards with suitab
 
 ### Including a code of conduct for contributors in the codebase is OPTIONAL.
 
+#### Resources
+
+* [Instructions for adding a CODE_OF_CONDUCT file on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). This includes templates for common Codes of Conduct (including the Contributor Covenant), and links in multiple places as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
+
+
 #### Examples
 
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/) is a code of conduct with a set of core values and norms that are essential in a just and equitable software commons. It can be adapted to include the special shared values and norms particular to your own community and its members.
