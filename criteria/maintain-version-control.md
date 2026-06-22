@@ -40,6 +40,9 @@ Git is great.
 
 ### Contribution guidelines SHOULD require contributors to group relevant changes in commits.
 
+* [Instructions for adding a CONTRIBUTING file on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), linked in multiple places as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
+
+
 ### Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
 
 #### Examples
