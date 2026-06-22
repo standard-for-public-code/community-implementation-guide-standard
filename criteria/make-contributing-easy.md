@@ -85,5 +85,3 @@ Preferably, anyone should be able to join these and start discussing without req
 #### Examples
 
 ### The documentation MUST include instructions for how to report potentially security sensitive issues.
-
-

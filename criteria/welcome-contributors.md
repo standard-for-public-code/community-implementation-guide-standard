@@ -24,7 +24,6 @@ redirect_from:
 
 * [Instructions for adding a CONTRIBUTING file on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), linked in multiple places as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
 
-
 #### Examples
 
 * [OpenZaak CONTRIBUTING](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md)
@@ -84,7 +83,6 @@ This could also be solved by having public task boards/kanban boards with suitab
 #### Resources
 
 * [Instructions for adding a CODE_OF_CONDUCT file on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). This includes templates for common Codes of Conduct (like the Contributor Covenant), and is linked in multiple places as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
-
 
 #### Examples
 
