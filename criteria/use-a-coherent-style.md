@@ -10,6 +10,8 @@ edirect_from:
 
 ## Requirements
 
+* [Instructions for adding a CONTRIBUTING file on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors). GitHub links CONTRIBUTING in multiple places as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
+
 ## Use a coherent style
 
 ### The codebase MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase.

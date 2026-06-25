@@ -25,6 +25,10 @@ Be on the lookout for people, organizations and initiatives with similar objecti
 
 ### Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
 
+#### Resources
+
+* [Instructions for adding a README file on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). This is linked as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
+
 #### Examples
 
 ### Documenting the objectives of the codebase for the general public is OPTIONAL.

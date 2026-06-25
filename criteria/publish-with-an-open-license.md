@@ -28,6 +28,8 @@ redirect_from:
 
 ### All source code MUST be published with a license file.
 
+* [Instructions for adding a LICENSE file on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). This includes templates for common open source licenses, and is linked as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
+
 ### Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 
 This may be impossible for civil servants in some jurisdictions so if that is a requirement they are effectively prohibited from contributing.

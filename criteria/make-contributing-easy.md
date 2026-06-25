@@ -17,16 +17,13 @@ order: 5
 * (add a good gitlab example)
 * [Tasks in Phabricator](https://phabricator.wikimedia.org/maniphest/)
 
-### The codebase MUST include instructions for how to privately report security issues for responsible disclosure.
-
-#### Examples
-
-* [OpenZaak SECURITY](https://github.com/open-zaak/open-zaak/blob/main/SECURITY.rst)
-* [Verdaccio SECURITY](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md)
-
 ### The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a README file.
 
 In many platforms, like GitHub, GitLab, Gitea etc. these links are automatically provided in the interface. If you don't use the features of the platform, for example if you have a separate issue tracker, then you must provide these links.
+
+#### Resources
+
+* [Instructions for adding a README file on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). This is linked as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
 
 #### Further reading
 
@@ -76,11 +73,15 @@ Preferably, anyone should be able to join these and start discussing without req
 
 ### There MUST be a way to report security issues for responsible disclosure over a closed channel.
 
-#### Examples
+#### Resources
 
-### The documentation MUST include instructions for how to report potentially security sensitive issues.
+* [Instructions for adding a SECURITY file on GitHub](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/add-security-policy). This is includes a minimal template and can be used to set up a 'report a vulnerability' button. It's also linked as part of a [repo's community profile](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
 
 #### Examples
 
 * [OpenZaak SECURITY](https://github.com/open-zaak/open-zaak/blob/main/SECURITY.rst)
 * [Verdaccio SECURITY](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md)
+
+### The documentation MUST include instructions for how to report potentially security sensitive issues.
+
+#### Examples
