@@ -71,7 +71,7 @@ Preferably, anyone should be able to join these and start discussing without req
 * [CivicTech Sweden (matrix)](https://app.element.io/#/room/#civictechse:matrix.org)
 * [Publiccode.yml forum (GitHub discussions)](https://github.com/publiccodeyml/publiccode.yml/discussions)
 
-### The codebase MUST include instructions for how to privately report security issues for responsible disclosure.
+### There MUST be a way to report security issues for responsible disclosure over a closed channel.
 
 #### Resources
 
@@ -82,6 +82,6 @@ Preferably, anyone should be able to join these and start discussing without req
 * [OpenZaak SECURITY](https://github.com/open-zaak/open-zaak/blob/main/SECURITY.rst)
 * [Verdaccio SECURITY](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md)
 
-#### Examples
-
 ### The documentation MUST include instructions for how to report potentially security sensitive issues.
+
+#### Examples
