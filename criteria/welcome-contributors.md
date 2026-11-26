@@ -52,6 +52,7 @@ redirect_from:
 * [Organization & Structure of Open Source Software Development Initiatives](https://web.archive.org/web/20220526100844/https://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf) by Cyberlaw Clinic has a good overview of different governance models.
 * [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9) is an academic article on governance and might be useful for someone that needs solid arguments for their decisions.
 * [IEEE Open Source Maintainers Manual](https://opensource.ieee.org/community/manual/) by the Institute of Electrical and Electronics Engineers can provide some inspiration as it provides the policies, guidelines, advice, and requirements for project leads, maintainers, contributors and other participants involved in IEEE Open Source projects.
+* [The governance guidance for Cloud Native Computing Foundation projects](https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/) helps communities choose the right structure for their project’s size and stage.
 
 ### The contribution guidelines SHOULD document who is expected to cover the costs of reviewing contributions.
 
